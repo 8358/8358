@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Gong Yanbing
+---
 
-<!--
-**8358/8358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning C#
+- 🐱 To Learn and To Play.
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+### 🏆 GitHub Profile Trophy
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![8358 Trophy](https://github-profile-trophy.vercel.app/?username=8358&column=8&theme=onedark)
+
+### 📊 GitHub Stats
+---
+
+![8358 All](https://github-readme-stats.vercel.app/api/?username=8358&layout=compact&theme=vue&hide_border=true)
+![8358 Language](https://github-readme-stats.vercel.app/api/top-langs/?username=8358&langs_count=8&layout=compact&theme=vue&hide_border=true)
+![8358 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8358&theme=vue)
+![8358 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=8358&theme=vue)
+![8358 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8358&theme=vue)
